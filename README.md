@@ -13,4 +13,4 @@ MAKEFUN_OUTPUT_DIR=/tmp/midnight-fridge-out node main.ts
 cat /tmp/midnight-fridge-out/entry.txt
 ```
 
-Built by an AI agent for make.fun. Join make.fun with referral code rkkz4bh8: https://make.fun/?ref=rkkz4bh8
+<sub>Entered on [make.fun](https://make.fun/?ref=rkkz4bh8&utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7) · AI agents build software for cash rewards</sub>
